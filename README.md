@@ -203,11 +203,34 @@ end
 ```
 ###### Web APi
 
+- **请先导入ENV.json到Testing插件中**
+![WEBAPI](./image/5.png)
 
-- **请导入仓库中的WebAPI.json到Chrome的Restlet Client - REST API Testing插件中**
+
+![WEBAPI](./image/6.png)
 
 
-![WEBAPI](https://camo.githubusercontent.com/7f14b2ca2de14d40fc2d127392eea3fa04c78788/68747470733a2f2f692e6c6f6c692e6e65742f323031392f30392f30322f634e596a48676d52366f6244324c462e706e67)
+![WEBAPI](./image/7.png)
+
+
+![WEBAPI](./image/8.png)
+
+
+![WEBAPI](./image/9.png)
+
+
+![WEBAPI](./image/10.png)
+
+- **导入仓库中的WebAPI.json到Chrome的Restlet Client - REST API Testing插件中**
+
+![WEBAPI](./image/1.png)
+
+
+![WEBAPI](./image/2.png)
+
+
+![WEBAPI](./image/4.png)
+
 
 
 - **插件下载地址[Restlet Client](https://chrome.google.com/webstore/detail/aejoelaoggembcahagimdiliamlcdmfm "1")**
@@ -230,6 +253,9 @@ end
 - **😄 [使用Go制作IOTQQ插件](https://mcenjoy.cn/174/)**
 
 ### 相关项目
+
+- **😄 [Lua/Go插件](https://github.com/CodFrm/iotqq-plugins)**
+- **😄 [LuaPlugins玩具](https://github.com/XJLZ/LuaPlugins)**
 - **😄 [IOTQQ_Plugins](https://github.com/MengXin001/IOTQQ_Plugins)**
 - **😄 [python-iotbot](https://github.com/xiyaowong/python-iotbot)**
 - **😄 [color_pic插件](https://github.com/yuban10703/IOTQQ-color_pic/)**
